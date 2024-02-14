@@ -80,8 +80,6 @@ a {
     font-size: 28px;
     color: #5d5d7d;
     cursor: pointer;
-
-
 }
 
 a:nth-child(2) {
@@ -139,7 +137,7 @@ header {
         text-align: center;
 
     }
-    
+
     p {
         margin: 15px 40px;
         width: auto;
@@ -185,7 +183,7 @@ header {
 
     p {
         font-size: 10px;
-      
+
     }
 
     h1 {
@@ -209,4 +207,3 @@ header {
 
 
 }
-
